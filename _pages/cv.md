@@ -18,15 +18,17 @@ Education
 
 Work experience
 ======
-* 2020 - 2021: Undergraduate Research Assistant
+* Teaching Assistant for EE5184 Machine Learning
+
+* Undergraduate Research Assistant
   * Medical Informatics Lab, National Taiwan University 
   * RNA sequencing pipeline development
 
-* 2020 - 2021: Undergraduate Research Assistant
+* Undergraduate Research Assistant
   * Stem Cell and Regenerative Medicine Lab, National Taiwan University
   * Single-cell RNA sequencing research
 
-* 2021 - Present: Research Assistant
+* Research Assistant
   * Computer Security & Privacy Lab, Washington University in St. Louis
   * PhD candidate in Computer Science
 
