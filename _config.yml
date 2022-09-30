@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuanhaur Chang / Personal Website"
+title                    : "Yuanhaur Chang"
 title_separator          : "-"
-name                     : &name "Yuanhaur Chang / Personal Website"
+name                     : &name "Yuanhaur Chang"
 description              : &description "personal description"
 url                      : https://ChangOliver.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
