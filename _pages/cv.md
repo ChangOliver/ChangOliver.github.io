@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 ---
 
@@ -12,11 +12,10 @@ E-mail: c.yuanhaur@wustl.edu
 Education
 ======
 * B.S. in Computer Science and Information Engineering, National Taiwan University, 2021
-* Ph.D in Computer Science, Washington University in St. Louis, 2026 (expected)
+* Ph.D in Computer Science and Engineering, Washington University in St. Louis, 2026 (expected)
 
-Work experience
+Research experience
 ======
-* Teaching Assistant for EE5184 Machine Learning
 
 * Undergraduate Research Assistant
   * Medical Informatics Lab, National Taiwan University 
@@ -62,12 +61,12 @@ Publications
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-<!--   
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Service and leadership
 ======
