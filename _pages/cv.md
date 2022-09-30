@@ -16,7 +16,6 @@ Education
 
 Research experience
 ======
-
 * Undergraduate Research Assistant
   * Medical Informatics Lab, National Taiwan University 
   * RNA sequencing pipeline development
