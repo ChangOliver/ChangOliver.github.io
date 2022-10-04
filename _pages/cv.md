@@ -45,7 +45,7 @@ Programming and Software Experience
 Projects
 =====
 * NanoFaceOff: [Website](https://ntubiomod2019.wixsite.com/nanofaceoff), [Video](https://www.youtube.com/watch?v=kkJiLuLF1Cg)
-* CVE-2021-44961, CVE-2021-44962
+* CVEs: [CVE-2021-44961](https://changoliver.github.io/posts/2022/01/CVE-2021-44961/), [CVE-2021-44962](https://changoliver.github.io/posts/2022/01/CVE-2021-44962/)
 
 Publications
 ======
