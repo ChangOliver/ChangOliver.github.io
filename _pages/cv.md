@@ -69,3 +69,4 @@ Service and leadership
 ======
 * Student Volunteer in Office of International Affairs
 * Student Volunteer in College of EECS
+* Vice President & Treasurer of Taiwanese Graduate Student Association (TGSA)
