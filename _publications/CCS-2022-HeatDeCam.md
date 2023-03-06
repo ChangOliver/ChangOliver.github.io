@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CCS-2022-HeatDeCam
 date: 2022-01-01
 venue: 'ACM Conference on Computer and Communications Security (CCS)'
-# paperurl: 'https://changoliver.github.io/files/HeatDeCam.pdf'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3548606.3560669'
 citation: 'Z. Yu, Z. Li, Y. Chang, S. Fong, J. Liu, N. Zhang. HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions. ACM Conference on Computer and Communications Security (CCS), 2022'
 ---
 ## Abstract
@@ -27,9 +27,3 @@ dataset, we found HeatDeCam can achieve over 95% accuracy in
 detecting hidden cameras. We have also conducted a usability eval-
 uation involving a total of 416 participants using both an online
 survey and an in-person usability test to validate HeatDeCam.
-
-<!-- + Citation: Zhiyuan Yu, Zhuohang Li, Yuanhaur Chang, Skylar Fong, Jian Liu, and Ning
-Zhang. 2022. HeatDeCam: Detecting Hidden Spy Cameras via Thermal
-Emissions. In Proceedings of the 2022 ACM SIGSAC Conference on Computer
-and Communications Security (CCS ’22), November 7–11, 2022, Los Angeles,
-CA, USA. ACM, New York, NY, USA, 17 pages. https://doi.org/10.1145/3548606.3560669 -->

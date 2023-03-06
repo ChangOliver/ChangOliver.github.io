@@ -32,6 +32,7 @@ Honors
 =====
 * **Bronze Project Award** in 2019 Biomolecuar Design Competition (BIOMOD) at UCSF
 * **Best Project - National Security** in Advanced Information Security Summer School (AIS3) competition
+* **Taiwan Ministry of Education SCholarship**
 * **Dean's International Award** at WashU
 
 Programming and Software Experience
