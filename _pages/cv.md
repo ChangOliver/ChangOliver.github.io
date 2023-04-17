@@ -8,6 +8,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 E-mail: c.yuanhaur@wustl.edu
+
 Download [here](http://changoliver.github.io/files/YuanhaurChang_CV.pdf)
 
 Education
@@ -18,8 +19,8 @@ Education
 Honors
 =====
 **Scholarship**
-* **Taiwan Ministry of Education Scholarship**
-* **WashU Dean's International Award**
+* Taiwan Ministry of Education Scholarship
+* WashU Dean's International Award
 
 **Competition**
 * **Bronze Project Award** in 2019 Biomolecuar Design Competition (BIOMOD) [NanoFaceOff](https://ntubiomod2019.wixsite.com/nanofaceoff)
