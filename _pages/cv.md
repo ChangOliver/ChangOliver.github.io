@@ -7,9 +7,7 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-E-mail: c.yuanhaur@wustl.edu
-
-Download [here](http://changoliver.github.io/files/YuanhaurChang_CV.pdf)
+[PDF](http://changoliver.github.io/files/YuanhaurChang_CV.pdf)
 
 Education
 ======
@@ -19,12 +17,8 @@ Education
 Honors
 =====
 **Scholarship**
-* Taiwan Ministry of Education Scholarship
-* WashU Dean's International Award
-
-**Competition**
-* **Bronze Project Award** in 2019 Biomolecuar Design Competition (BIOMOD) [NanoFaceOff](https://ntubiomod2019.wixsite.com/nanofaceoff)
-* **Best Project - National Security** in Advanced Information Security Summer School (AIS3) Competition
+* Taiwan Ministry of Education Scholarship, 2021
+* WashU Dean's International Award, 2021
 
 Research Experiences
 ======
@@ -55,18 +49,25 @@ Teaching
 
 Service and Leadership
 ======
-* Student Volunteer in Office of International Affairs
-* Student Volunteer in College of EECS
-* Vice President of Taiwanese Graduate Student Association (TGSA)
+**Conference Organization**
+* Web Chair, 10th ACM Workshop on Moving Target Defense (MTD’23)
 
-Programming and Software Experience
+**Student Group**
+* Vice President, Taiwanese Graduate Student Association (TGSA)
+
+**Volunteering**
+* Student Volunteer, Office of International Affairs
+* Student Volunteer, College of EECS
+
+
+<!-- Programming and Software Experience
 ======
 * C/C++, Python, R, Java
 * Web Development: React.js, Node.js
 * Android app development
 * Computer-aided design
 * Animation & Video editing
-
+ -->
 
 <!-- Talks
 ======
