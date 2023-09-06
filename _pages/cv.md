@@ -38,8 +38,10 @@ Publications
   {% endfor %}</ul>
 
 **CVE**
-* [CVE-2021-44961](https://changoliver.github.io/posts/2022/01/CVE-2021-44961/)
-* [CVE-2021-44962](https://changoliver.github.io/posts/2022/01/CVE-2021-44962/)
+* [CVE-2021-44961](https://nvd.nist.gov/vuln/detail/CVE-2021-44961)
+* [CVE-2021-44962](https://nvd.nist.gov/vuln/detail/CVE-2021-44962)
+* [CVE-2023-40889](https://nvd.nist.gov/vuln/detail/CVE-2023-40889)
+* [CVE 2023-40890](https://nvd.nist.gov/vuln/detail/CVE-2023-40890)
 
 Teaching
 ======
