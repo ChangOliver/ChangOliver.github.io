@@ -33,12 +33,12 @@ Research Experiences
 Publications
 ======
 **Conferences**
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 **Workshops**
-  <ul>{% for post in site.workshops %}
+  <ul>{% for post in workshops reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
