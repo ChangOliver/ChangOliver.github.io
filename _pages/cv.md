@@ -37,6 +37,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+**Workshops**
+  <ul>{% for post in site.workshops %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 **CVE**
 * [CVE-2021-44961](https://nvd.nist.gov/vuln/detail/CVE-2021-44961)
 * [CVE-2021-44962](https://nvd.nist.gov/vuln/detail/CVE-2021-44962)
