@@ -1,8 +1,8 @@
 ---
 title: "HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions"
 collection: publications
-permalink: /publication/CCS-2022-HeatDeCam
-date: 2022-01-01
+permalink: /publication/20221107-CCS-HeatDeCam
+date: 2022-11-07
 venue: 'ACM Conference on Computer and Communications Security (CCS)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3548606.3560669'
 citation: 'Z. Yu, Z. Li, Y. Chang, S. Fong, J. Liu, N. Zhang. HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions. ACM Conference on Computer and Communications Security (CCS), 2022'

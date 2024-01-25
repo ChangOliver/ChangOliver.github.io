@@ -1,8 +1,8 @@
 ---
 title: "XCheck: Integrity Verification for 3D Printed Patient-Specific Devices via Computing Tomography"
 collection: publications
-permalink: /publication/USENIX-2023-XCheck
-date: 2023-01-01
+permalink: /publication/20230809-USENIX-XCheck
+date: 2023-08-09
 venue: 'USENIX Security Symposium'
 paperurl: 'https://www.usenix.org/conference/usenixsecurity23/presentation/yuzhiyuan-0'
 citation: 'Z. Yu, Y. Chang, S. Zhai, N. Deily, T. Ju, XF. Wang, U. Jammalamadaka, N. Zhang. XCheck: Integrity Verification for 3D Printed Patient-Specific Devices via Computing Tomography. USENIX Security Symposium, 2023'

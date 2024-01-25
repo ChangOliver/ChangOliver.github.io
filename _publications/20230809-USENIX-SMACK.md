@@ -1,8 +1,8 @@
 ---
 title: "SMACK: Semantically Meaningful Adversarial Audio Attack"
 collection: publications
-permalink: /publication/USENIX-2023-SMACK
-date: 2023-01-01
+permalink: /publication/20230809-USENIX-SMACK
+date: 2023-08-09
 venue: 'USENIX Security Symposium'
 paperurl: 'https://www.usenix.org/conference/usenixsecurity23/presentation/yuzhiyuan'
 citation: 'Z. Yu, Y. Chang, N. Zhang, C. Xiao. SMACK: Semantically Meaningful Adversarial Audio Attack. USENIX Security Symposium, 2023'
