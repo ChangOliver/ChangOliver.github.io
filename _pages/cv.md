@@ -16,7 +16,7 @@ Education
 
 Honors
 =====
-**Scholarship**
+**Award**
 * Taiwan Ministry of Education Scholarship, 2021
 * WashU Dean's International Award, 2021
 
@@ -53,8 +53,11 @@ Service and Leadership
 **Conference Organization**
 * Web Chair, 10th ACM Workshop on Moving Target Defense (MTD’23)
 
+**Technical Program Committee**
+* USENIX Security Symposium: 2024
+
 **Student Group**
-* Vice President, Taiwanese Graduate Student Association (TGSA)
+* Vice President/Treasurer, Taiwanese Graduate Student Association (TGSA)
 
 **Volunteering**
 * Student Volunteer, Office of International Affairs
