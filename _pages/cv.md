@@ -17,7 +17,7 @@ Education
 Honors
 =====
 **Award**
-* Taiwan Ministry of Education Scholarship, 2021
+* Taiwan Ministry of Education (MOE) Fellowship, 2021
 * WashU Dean's International Award, 2021
 
 Research Experiences
