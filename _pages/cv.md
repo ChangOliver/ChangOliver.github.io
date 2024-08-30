@@ -37,10 +37,8 @@ Publications
   {% endfor %}</ul>
 
 **CVE**
-* [CVE-2021-44961](https://nvd.nist.gov/vuln/detail/CVE-2021-44961)
-* [CVE-2021-44962](https://nvd.nist.gov/vuln/detail/CVE-2021-44962)
-* [CVE-2023-40889](https://nvd.nist.gov/vuln/detail/CVE-2023-40889)
-* [CVE 2023-40890](https://nvd.nist.gov/vuln/detail/CVE-2023-40890)
+* Slic3r: [CVE-2021-44961](https://nvd.nist.gov/vuln/detail/CVE-2021-44961), [CVE-2021-44962](https://nvd.nist.gov/vuln/detail/CVE-2021-44962) (Base Score: 5.5)
+* Zbar: [CVE-2023-40889](https://nvd.nist.gov/vuln/detail/CVE-2023-40889), [CVE 2023-40890](https://nvd.nist.gov/vuln/detail/CVE-2023-40890) (Base Score: 9.8)
 
 Teaching
 ======
@@ -55,6 +53,17 @@ Service and Leadership
 
 **Technical Program Committee**
 * USENIX Security Symposium: 2024
+
+**External Conference Review**
+* IEEE Symposium on Security and Privacy (Oakland)
+* ACM Conference on Computer and Communications Security (CCS)
+* ACM ASIA Conference on Computer and Communications Security (ASIACCS)
+* Annual Computer Security Applications Conference (ACSAC)
+* USENIX Security Symposium (Security)
+* IEEE International Conference on Computer Communications (INFOCOM)
+* ISOC The Network and Distributed System Security Symposium (NDSS)
+* IEEE European Symposium of Security and Privacy (EuroS&P)
+* Design Automation Conference (DAC)
 
 **Student Group**
 * Vice President/Treasurer, Taiwanese Graduate Student Association (TGSA)
