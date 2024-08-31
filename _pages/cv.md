@@ -38,7 +38,7 @@ Publications
 
 **CVE**
 * Slic3r: [CVE-2021-44961](https://nvd.nist.gov/vuln/detail/CVE-2021-44961), [CVE-2021-44962](https://nvd.nist.gov/vuln/detail/CVE-2021-44962) (Base Score: 5.5)
-* Zbar: [CVE-2023-40889](https://nvd.nist.gov/vuln/detail/CVE-2023-40889), [CVE 2023-40890](https://nvd.nist.gov/vuln/detail/CVE-2023-40890) (Base Score: 9.8)
+* ZBar: [CVE-2023-40889](https://nvd.nist.gov/vuln/detail/CVE-2023-40889), [CVE 2023-40890](https://nvd.nist.gov/vuln/detail/CVE-2023-40890) (Base Score: 9.8)
 
 Teaching
 ======
