@@ -53,6 +53,7 @@ Service and Leadership
 
 **Technical Program Committee**
 * USENIX Security Symposium: 2024
+* IEEE Transactions on Information Forensics & Security: 2024
 
 **External Conference Review**
 * IEEE Symposium on Security and Privacy (Oakland)
