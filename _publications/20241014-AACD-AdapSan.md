@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/20241014-AACD-AdapSan
 date: 2024-10-14
 venue: 'ACM Workshop on Adaptive and Autonomous Cyber Defense (AACD)'
-paperurl: 'http://changoliver.github.io/files/AdapSan-Adaptive Input Sanitization in Medical Systems with eBPF'
+paperurl: 'http://changoliver.github.io/files/AdapSan.pdf'
 citation: 'S. Chang, A. Li, E. Jaff, Y. Chang, J. Wang, N. Zhang, H. Hsiao. AdapSan: Adaptive Input Sanitization in Medical Systems with eBPF. ACM Workshop on Adaptive and Autonomous Cyber Defense (AACD), 2024'
 ---
 ## Abstract
