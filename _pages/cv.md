@@ -52,7 +52,7 @@ Service and Leadership
 * Web Chair, 10th ACM Workshop on Moving Target Defense (MTD’23)
 
 **Technical Program Committee**
-* USENIX Security Symposium: 2024
+* USENIX Security Symposium: 2024, 2025
 * IEEE Transactions on Information Forensics & Security: 2024
 
 **External Conference Review**
