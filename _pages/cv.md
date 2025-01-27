@@ -53,7 +53,8 @@ Service and Leadership
 
 **Technical Program Committee**
 * USENIX Security Symposium: 2024, 2025
-* IEEE Transactions on Information Forensics & Security: 2024
+* IEEE Transactions on Information Forensics & Security: 2024, 2025
+* IEEE Transactions on Cyber-Physical Systems: 2025
 * International Conference on Autonomous Agents and Multi-Agent Systems: 2025
 
 **External Conference Review**
@@ -61,7 +62,6 @@ Service and Leadership
 * ACM Conference on Computer and Communications Security (CCS)
 * ACM ASIA Conference on Computer and Communications Security (ASIACCS)
 * Annual Computer Security Applications Conference (ACSAC)
-* USENIX Security Symposium (Security)
 * IEEE International Conference on Computer Communications (INFOCOM)
 * ISOC The Network and Distributed System Security Symposium (NDSS)
 * IEEE European Symposium of Security and Privacy (EuroS&P)
