@@ -28,7 +28,7 @@ Research Experiences
 
 **Research Assistant**
   * Computer Security & Privacy Lab, Washington University in St. Louis
-  * PhD candidate in Computer Science
+  * PhD candidate in Computer Science & Engineering
 
 Publications
 ======
@@ -50,6 +50,7 @@ Service and Leadership
 ======
 **Conference Organization**
 * Web Chair, 10th ACM Workshop on Moving Target Defense (MTD’23)
+* US-Taiwan Workshop on Cybersecurity 2025
 
 **Technical Program Committee**
 * USENIX Security Symposium: 2024, 2025
