@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuanhaur Chang (Oliver)"
   avatar           : "profile.jpg"
-  bio              : "Ph.D Candidate in Computer Science & Engineering at Washington Univeristy in St. Louis"
+  bio              : "Ph.D Candidate in Computer Science & Engineering at Washington University in St. Louis"
   location         :  "Washington University in St. Louis"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "c.yuanhur@wustl.edu"
+  email            : "c.yuanhaur@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
