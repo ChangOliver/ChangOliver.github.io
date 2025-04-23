@@ -54,9 +54,9 @@ Service and Leadership
 
 **Technical Program Committee**
 * USENIX Security Symposium: 2024, 2025
-* IEEE Transactions on Information Forensics & Security: 2024, 2025
-* IEEE Transactions on Cyber-Physical Systems: 2025
-* International Conference on Autonomous Agents and Multi-Agent Systems: 2025
+* IEEE Transactions on Information Forensics & Security (TIFS): 2024, 2025
+* IEEE Transactions on Cyber-Physical Systems (TCPS): 2025
+* International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS): 2025
 
 **External Conference Review**
 * IEEE Symposium on Security and Privacy (Oakland)
