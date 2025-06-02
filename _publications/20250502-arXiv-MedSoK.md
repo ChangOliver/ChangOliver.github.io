@@ -1,5 +1,5 @@
 ---
-title: "SoK: Security and Privacy Risks of Healthcare AI "
+title: "SoK: Security and Privacy Risks of Healthcare AI"
 collection: publications
 permalink: /publication/20250502-arXiv-MedSoK
 date: 2025-05-02
