@@ -53,8 +53,8 @@ Service and Leadership
 * US-Taiwan Workshop on Cybersecurity 2025
 
 **Technical Program Committee**
-* ACM Conference on Computer and Communications Security (CCS): 2025
-* USENIX Security Symposium: 2024, 2025
+* ACM Conference on Computer and Communications Security (CCS) AEC: 2025
+* USENIX Security Symposium AEC: 2024, 2025
 * IEEE Transactions on Information Forensics & Security (TIFS): 2024, 2025
 * IEEE Transactions on Cyber-Physical Systems (TCPS): 2025
 * International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS): 2025
