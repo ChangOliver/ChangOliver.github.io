@@ -71,6 +71,7 @@ Service and Leadership
 * ISOC The Network and Distributed System Security Symposium (NDSS)
 * IEEE European Symposium of Security and Privacy (EuroS&P)
 * Design Automation Conference (DAC)
+* IEEE Real-Time Systems Symposium (RTSS)
 
 **Student Group**
 * Vice President/Treasurer, Taiwanese Graduate Student Association (TGSA)
