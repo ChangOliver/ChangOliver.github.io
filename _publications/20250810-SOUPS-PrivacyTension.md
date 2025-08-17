@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/20250810-SOUPS-PrivacyTension
 date: 2025-08-10
 venue: 'Symposium on Usable Privacy and Security (SOUPS)'
-paperurl: ''
+paperurl: 'https://www.usenix.org/conference/soups2025/presentation/alsiyat'
 citation: 'Y. Alsiyat, Y. Chang, N. Zhang, I. Flechais. Smart Spaces, Private Lives: A Culturally Grounded Examination of Privacy Tensions in Smart
 Homes. Symposium on Usable Privacy and Security (SOUPS), 2025'
 ---
