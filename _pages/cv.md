@@ -60,8 +60,8 @@ Service and Leadership
 * International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS): 2025
 * IEEE Conference on Communications and Network Security (CNS): 2025
 * IEEE Transactions on Information Forensics & Security (TIFS): 2024, 2025
-* IEEE Transactions on Cyber-Physical Systems (TCPS): 2025
-
+* ACM Transactions on Cyber-Physical Systems (TCPS): 2025
+* IEEE/ACM Transactions on Networking (TNET): 2025
 
 **External Conference Review**
 * IEEE Symposium on Security and Privacy (Oakland)
