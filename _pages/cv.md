@@ -58,7 +58,7 @@ Service and Leadership
 * USENIX Security Symposium AEC: 2024, 2025
 * Network and Distributed System Security Symposium (NDSS) AEC: 2026
 * International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS): 2025
-* IEEE Conference on Communications and Network Security (CNS): 2025
+* IEEE Conference on Communications and Network Security (CNS): 2026
 * IEEE Transactions on Information Forensics & Security (TIFS): 2024, 2025
 * ACM Transactions on Cyber-Physical Systems (TCPS): 2025
 * IEEE/ACM Transactions on Networking (TNET): 2025
@@ -70,6 +70,7 @@ Service and Leadership
 * Annual Computer Security Applications Conference (ACSAC)
 * IEEE International Conference on Computer Communications (INFOCOM)
 * ISOC The Network and Distributed System Security Symposium (NDSS)
+* IEEE Conference on Communications and Network Security (CNS)
 * IEEE European Symposium of Security and Privacy (EuroS&P)
 * Design Automation Conference (DAC)
 * IEEE Real-Time Systems Symposium (RTSS)
